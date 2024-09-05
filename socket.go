@@ -26,9 +26,11 @@ func SocketServer() {
 	io.On("connection", func(clients ...any) {
 		fmt.Println("you've connected")
 		client := clients[0].(*socket.Socket)
-		client.On("event", func(datas ...any) {
-		})
 		client.On("disconnect", func(...any) {
+		})
+		client.On("create-something", func(...any) {
+			fmt.Println("hiya")
+			client.Emit("foo", "how are you?")
 		})
 	})
 
