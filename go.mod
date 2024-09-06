@@ -5,6 +5,7 @@ go 1.22.5
 require (
 	github.com/zishang520/engine.io v1.5.9
 	github.com/zishang520/socket.io v1.3.2
+	golang.org/x/exp v0.0.0-20240904232852-e7e105dedf7e
 )
 
 require (

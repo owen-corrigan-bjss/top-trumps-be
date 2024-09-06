@@ -26,6 +26,8 @@ github.com/zishang520/socket.io v1.3.2 h1:upZOATECfySGNscRXg2rkuLumok9LKIGH/WQCh
 github.com/zishang520/socket.io v1.3.2/go.mod h1:3K67bHxAdxTwNzTeMUVgjBVvWp6OI+ZxIzBxCIlRZ5o=
 github.com/zishang520/socket.io-go-parser v1.0.4 h1:YI8fYHkPcBthJ85mqIAGIoG0FjvjRDLtkGZGeJfVim0=
 github.com/zishang520/socket.io-go-parser v1.0.4/go.mod h1:MH46HoC+N5yNUljfqw8InofX1Ao4Fuok3K7UrzjaVR4=
+golang.org/x/exp v0.0.0-20240904232852-e7e105dedf7e h1:I88y4caeGeuDQxgdoFPUq097j7kNfw6uvuiNxUBfcBk=
+golang.org/x/exp v0.0.0-20240904232852-e7e105dedf7e/go.mod h1:akd2r19cwCdwSwWeIdzYQGa/EZZyqcOdwWiwj5L5eKQ=
 golang.org/x/net v0.25.0 h1:d/OCCoBEUq33pjydKrGQhw7IlUPI2Oylr+8qLx49kac=
 golang.org/x/net v0.25.0/go.mod h1:JkAGAh7GEvH74S6FOH42FLoXpXbE/aqXSrIQjXgsiwM=
 golang.org/x/sys v0.20.0 h1:Od9JTbYCk261bKm4M/mw7AklTlFYIa0bIp9BgSm1S8Y=
